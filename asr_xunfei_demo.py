@@ -13,8 +13,8 @@ api_upload = '/upload'
 api_get_result = '/getResult'
 
 # 请替换为您的 appid 和 secret_key
-APPID = "718a66e3"
-SECRET_KEY = "772614c18b6e7d1e1142dfded09a4014"
+APPID = "nicai"
+SECRET_KEY = "nizaicai"
 
 class RequestApi(object):
     def __init__(self, appid, secret_key, upload_file_path):
